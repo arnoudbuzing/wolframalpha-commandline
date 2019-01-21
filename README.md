@@ -5,6 +5,9 @@ This [Wolfram Language script](http://www.wolfram.com/wolframscript/) provides a
 to the popular [Wolfram|Alpha website](https://www.wolframalpha.com/). It requires a local Wolfram Engine
 to run (e.g. [Wolfram|One](http://www.wolfram.com/wolfram-one/) or [Mathematica](http://www.wolfram.com/mathematica/)). 
 
+Wolfram|Alpha queries are powered by the [Wolfram Knowledgebase](https://www.wolfram.com/knowledgebase/) and the 
+[Natural Language Understanding System](https://www.wolfram.com/natural-language-understanding/).
+
 After cloning this repository, run `wolframalpha.wls` from a command line to start it up:
 
     > wolframalpha.wls
